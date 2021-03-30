@@ -38,6 +38,7 @@ Android  basic framework
 		
 
 Android Intermediate
+
         constraint layout - https://developer.android.com/reference/androidx/constraintlayout/widget/ConstraintLayout
 
         constraint layout flow - https://proandroiddev.com/awesomeness-of-constraintlayout-flow-aa0b5edd5df
