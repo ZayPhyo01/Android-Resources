@@ -69,23 +69,23 @@ Resource road map
    For more rx - https://drive.google.com/file/d/1il5gpuwJGmG19PZq7H0jKT5wdcau3a2A/view?usp=sharing (*Ebook)
 
 
-Android Advance 
+## Android Advance ##
       
-      Clean code series - https://www.youtube.com/watch?v=7EmboKQH8lM
+   Clean code series - https://www.youtube.com/watch?v=7EmboKQH8lM
 
-      Design Pattern HeadFirst - https://drive.google.com/file/d/12dIQ-tGMZEPBh2ujhsLyreuBpMqN80NB/view?usp=sharing (*Ebook)
+   Design Pattern HeadFirst - https://drive.google.com/file/d/12dIQ-tGMZEPBh2ujhsLyreuBpMqN80NB/view?usp=sharing (*Ebook)
 
-      DI - https://developer.android.com/training/dependency-injection 
+   DI - https://developer.android.com/training/dependency-injection 
 
-      Android Test Driven Development - https://drive.google.com/file/d/1Y9LutgnwbZH4Zdmhw_3nnIS3esxO644D/view?usp=sharing(*Ebook)
+   Android Test Driven Development - https://drive.google.com/file/d/1Y9LutgnwbZH4Zdmhw_3nnIS3esxO644D/view?usp=sharing(*Ebook)
 
-      Grokking Algorithm - https://drive.google.com/file/d/1RYo05VXlGcgBGWVOJ5MiW6RotSyEEoRM/view?usp=sharing (*Ebook)
+   Grokking Algorithm - https://drive.google.com/file/d/1RYo05VXlGcgBGWVOJ5MiW6RotSyEEoRM/view?usp=sharing (*Ebook)
 
-      Functional Programming - https://drive.google.com/file/d/13QG5n0oBBm87mBpktlx18PyOjG2ktFyU/view?usp=sharing(*Ebook)
+   Functional Programming - https://drive.google.com/file/d/13QG5n0oBBm87mBpktlx18PyOjG2ktFyU/view?usp=sharing(*Ebook)
 
-      Android MDC - https://medium.com/androiddevelopers/material-theming-with-mdc-color-860dbba8ce2f
+   Android MDC - https://medium.com/androiddevelopers/material-theming-with-mdc-color-860dbba8ce2f
 
-      Android MAD skill - https://developer.android.com/series/mad-skills
+   Android MAD skill - https://developer.android.com/series/mad-skills
 
 
 
