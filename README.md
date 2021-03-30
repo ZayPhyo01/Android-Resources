@@ -8,7 +8,7 @@ Resource road map
 Beginner (Java language , Kotlin language , Android beginner)
 
       Java language and OOP concept
-					- http://index-of.es/Java/Object%20oriented%20Programming%20and%20java.pdf (*Ebook)
+					- (http://index-of.es/Java/Object%20oriented%20Programming%20and%20java.pdf) (*Ebook)
 
       Kotlin language 
               Udacity bootcamp video
