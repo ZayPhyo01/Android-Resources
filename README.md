@@ -40,33 +40,33 @@ Resource road map
 
 ## Android Intermediate ##
 
-        constraint layout - https://developer.android.com/reference/androidx/constraintlayout/widget/ConstraintLayout
+   constraint layout - https://developer.android.com/reference/androidx/constraintlayout/widget/ConstraintLayout
 
-        constraint layout flow - https://proandroiddev.com/awesomeness-of-constraintlayout-flow-aa0b5edd5df
+   constraint layout flow - https://proandroiddev.com/awesomeness-of-constraintlayout-flow-aa0b5edd5df
                            - https://classroom.udacity.com/courses/ud851
 		         - https://classroom.udacity.com/courses/ud855
 
-        Kotlin 
-        Extension function - https://kotlinlang.org/docs/extensions.html#note-on-visibility
+   ### Kotlin ###
+   Extension function - https://kotlinlang.org/docs/extensions.html#note-on-visibility
 
-        Inline function - https://www.youtube.com/watch?v=wAQCs8-a6mg
+   Inline function - https://www.youtube.com/watch?v=wAQCs8-a6mg
 
-        Jetpack
-        What is JackPack - https://medium.com/android-news/what-is-android-jetpack-737095e88161
+   ### Jetpack ###
+   What is JackPack - https://medium.com/android-news/what-is-android-jetpack-737095e88161
                  Android Advance Architecture(Raywenderlich) - https://drive.google.com/file/d/1yQMStaIpF_qnExYZqY-zFxiYzWdloLaM/view?usp=sharing (*Ebook) 
 
-        For More About Architecture Components
-		 What is lifecycle aware components - https://developer.android.com/topic/libraries/architecture/lifecycle
+   For More About Architecture Components
+   What is lifecycle aware components - https://developer.android.com/topic/libraries/architecture/lifecycle
 
-		 ViewModel - https://medium.com/androiddevelopers/viewmodels-a-simple-example-ed5ac416317e
+   ViewModel - https://medium.com/androiddevelopers/viewmodels-a-simple-example-ed5ac416317e
 
-                  Room Database series - https://android.jlelse.eu/android-architecture-components-room-introduction-4774dd72a1ae
+   Room Database series - https://android.jlelse.eu/android-architecture-components-room-introduction-4774dd72a1ae
 
-		 LiveData - https://developer.android.com/topic/libraries/architecture/livedata
+   LiveData - https://developer.android.com/topic/libraries/architecture/livedata
 
-                  Reactive programming with RX java https://drive.google.com/file/d/1QM0Sr-BpfUMXraXnpKSxcK2K9oHi9x3E/view?usp=sharing (*Ebook)
+   Reactive programming with RX java https://drive.google.com/file/d/1QM0Sr-BpfUMXraXnpKSxcK2K9oHi9x3E/view?usp=sharing (*Ebook)
 
-                  For more rx - https://drive.google.com/file/d/1il5gpuwJGmG19PZq7H0jKT5wdcau3a2A/view?usp=sharing (*Ebook)
+   For more rx - https://drive.google.com/file/d/1il5gpuwJGmG19PZq7H0jKT5wdcau3a2A/view?usp=sharing (*Ebook)
 
 
 Android Advance 
