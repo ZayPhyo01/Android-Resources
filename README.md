@@ -53,7 +53,7 @@ Resource road map
 
    ### Jetpack ###
    What is JackPack - https://medium.com/android-news/what-is-android-jetpack-737095e88161
-                 Android Advance Architecture(Raywenderlich) - https://drive.google.com/file/d/1yQMStaIpF_qnExYZqY-zFxiYzWdloLaM/view?usp=sharing (*Ebook) 
+   Android Advance Architecture(Raywenderlich) - https://drive.google.com/file/d/1yQMStaIpF_qnExYZqY-zFxiYzWdloLaM/view?usp=sharing (*Ebook) 
 
    For More About Architecture Components
    What is lifecycle aware components - https://developer.android.com/topic/libraries/architecture/lifecycle
@@ -77,7 +77,7 @@ Resource road map
 
    DI - https://developer.android.com/training/dependency-injection 
 
-   Android Test Driven Development - https://drive.google.com/file/d/1Y9LutgnwbZH4Zdmhw_3nnIS3esxO644D/view?usp=sharing(*Ebook)
+   Android Test Driven Development - https://drive.google.com/file/d/1Y9LutgnwbZH4Zdmhw_3nnIS3esxO644D/view?usp=sharing (*Ebook)
 
    Grokking Algorithm - https://drive.google.com/file/d/1RYo05VXlGcgBGWVOJ5MiW6RotSyEEoRM/view?usp=sharing (*Ebook)
 
