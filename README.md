@@ -4,18 +4,16 @@ Resource road map
 
 (Roadmap = https://roadmap.sh/roadmaps/android/roadmap.png )
 
-
 Beginner (Java language , Kotlin language , Android beginner)
 
-      Java language and OOP concept
-					- (http://index-of.es/Java/Object%20oriented%20Programming%20and%20java.pdf) (*Ebook)
+       Java language and OOP concept [http://index-of.es/Java/Object%20oriented%20Programming%20and%20java.pdf] *Ebook
 
-      Kotlin language 
+       Kotlin language 
               Udacity bootcamp video
- 				 	- https://classroom.udacity.com/courses/ud9011  (When you finish this course , you will get at least how to write Kotlin syntax)
+ 				 	  - https://classroom.udacity.com/courses/ud9011  (When you finish this course , you will get at least how to write Kotlin syntax)
 
-                                          - https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99 (For stater of Kotlin , some of u will strange with higher order function)
-(In short , higher order function means ,  it takes another function as parameter and this parameter function may return result or not (eg void type in java ) )
+                                          - https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99 
+                                          - (For stater of Kotlin , some of u will strange with higher order function) In short , higher order function means ,  it takes another function as parameter and this parameter function may return result or not (eg void type in java)
 
 					- https://medium.com/swlh/kotlin-lambda-expressions-and-higher-order-functions-80029f5b9941 (When u get higher order function , u can easily write that with lambda function )
 
