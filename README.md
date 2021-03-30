@@ -8,37 +8,37 @@ Resource road map
 
  Java language and OOP concept http://index-of.es/Java/Object%20oriented%20Programming%20and%20java.pdf *Ebook
 
- Kotlin language 
-              Udacity bootcamp video
- 				 	  - https://classroom.udacity.com/courses/ud9011  (When you finish this course , you will get at least how to write Kotlin syntax)
+## Kotlin language ##
 
-                                          - https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99 
-                                          - (For stater of Kotlin , some of u will strange with higher order function) In short , higher order function means ,  it takes another function as parameter and this parameter function may return result or not (eg void type in java)
+ Udacity bootcamp video - https://classroom.udacity.com/courses/ud9011  (When you finish this course , you will get at least how to write Kotlin syntax)
 
-					- https://medium.com/swlh/kotlin-lambda-expressions-and-higher-order-functions-80029f5b9941 (When u get higher order function , u can easily write that with lambda function )
+  - https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99 
+    (For stater of Kotlin , some of u will strange with higher order function) In short , higher order function means ,  it takes another function as parameter and this parameter function may return result or not (eg void type in java)
 
-					- https://www.youtube.com/watch?v=pFbDZQ9M76Y (if u wanna know more about function in Kotlin check this video)
+ - https://medium.com/swlh/kotlin-lambda-expressions-and-higher-order-functions-80029f5b9941 (When u get higher order function , u can easily write that with lambda function )
 
-					- https://drive.google.com/file/d/1LHWL31DwrLoX_Mr2F-SfcDKTSxiyN2y5/view?usp=sharing (*Ebook)
+ - https://www.youtube.com/watch?v=pFbDZQ9M76Y (if u wanna know more about function in Kotlin check this video)
 
-					- https://www.youtube.com/watch?v=KRSmeyDfQ4U&t=58s (This is just for fun course , mind relax course to make android origami fold)
+ - https://drive.google.com/file/d/1LHWL31DwrLoX_Mr2F-SfcDKTSxiyN2y5/view?usp=sharing (*Ebook)
 
-Android  basic framework 
+ - https://www.youtube.com/watch?v=KRSmeyDfQ4U&t=58s (This is just for fun course , mind relax course to make android origami fold)
 
-    HeadFirst Android (This is one of my fav book) 
-                                               - https://drive.google.com/file/d/1eO3TtcDz0P3tEe-HLqHsY-l876YlLQFq/view?usp=sharing(*Ebook)
+## Android  basic framework ##
+
+  HeadFirst Android (This is one of my fav book) 
+  - https://drive.google.com/file/d/1eO3TtcDz0P3tEe-HLqHsY-l876YlLQFq/view?usp=sharing(*Ebook)
 
 
-    Udacity course list 
-		Beginner session - https://www.udacity.com/course/android-basics-user-interface--ud834
-		                                -   https://classroom.udacity.com/courses/ud843
+ ### Udacity course list ###
+   Beginner session - https://www.udacity.com/course/android-basics-user-interface--ud834
+		    -   https://classroom.udacity.com/courses/ud843
 
-		Theme and style  -  https://medium.com/androiddevelopers/android-styling-prefer-theme-attributes-412caa748774
+   Theme and style  -  https://medium.com/androiddevelopers/android-styling-prefer-theme-attributes-412caa748774
 
  
 		
 
-Android Intermediate
+## Android Intermediate ##
 
         constraint layout - https://developer.android.com/reference/androidx/constraintlayout/widget/ConstraintLayout
 
