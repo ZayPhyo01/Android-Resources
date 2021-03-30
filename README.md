@@ -53,6 +53,7 @@ Resource road map
 
    ### Jetpack ###
    What is JackPack - https://medium.com/android-news/what-is-android-jetpack-737095e88161
+   
    Android Advance Architecture(Raywenderlich) - https://drive.google.com/file/d/1yQMStaIpF_qnExYZqY-zFxiYzWdloLaM/view?usp=sharing (*Ebook) 
 
    For More About Architecture Components
@@ -81,7 +82,7 @@ Resource road map
 
    Grokking Algorithm - https://drive.google.com/file/d/1RYo05VXlGcgBGWVOJ5MiW6RotSyEEoRM/view?usp=sharing (*Ebook)
 
-   Functional Programming - https://drive.google.com/file/d/13QG5n0oBBm87mBpktlx18PyOjG2ktFyU/view?usp=sharing(*Ebook)
+   Functional Programming - https://drive.google.com/file/d/13QG5n0oBBm87mBpktlx18PyOjG2ktFyU/view?usp=sharing (*Ebook)
 
    Android MDC - https://medium.com/androiddevelopers/material-theming-with-mdc-color-860dbba8ce2f
 
