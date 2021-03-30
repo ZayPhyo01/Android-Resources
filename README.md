@@ -2,11 +2,11 @@
 
 Resource road map 
 
-(Roadmap = https://roadmap.sh/roadmaps/android/roadmap.png )
+(Roadmap = https://roadmap.sh/roadmaps/android/roadmap.png)
 
 Beginner (Java language , Kotlin language , Android beginner)
 
-       Java language and OOP concept [http://index-of.es/Java/Object%20oriented%20Programming%20and%20java.pdf] *Ebook
+ Java language and OOP concept http://index-of.es/Java/Object%20oriented%20Programming%20and%20java.pdf *Ebook
 
        Kotlin language 
               Udacity bootcamp video
